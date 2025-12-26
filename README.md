@@ -77,4 +77,9 @@ This project is optimized for **Google Cloud**. To deploy your own instance, fol
 
 ---
 
+## 📜 License
+This project is licensed under the **MIT License** — see the `LICENSE` file for details.
+
+---
+
 Developed with ❤️ using ElevenLabs and Google Cloud.
